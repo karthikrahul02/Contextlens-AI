@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Vector database identification",
+        "passed": true,
+        "expected_status": "supported",
+        "actual_status": "supported",
+        "status_match": true,
+        "keyword_match": true,
+        "citations_valid": true,
+        "structure_valid": true
+    },
+    {
+        "name": "Embedding model identification",
+        "passed": true,
+        "expected_status": "supported",
+        "actual_status": "supported",
+        "status_match": true,
+        "keyword_match": true,
+        "citations_valid": true,
+        "structure_valid": true
+    },
+    {
+        "name": "Backend identification",
+        "passed": true,
+        "expected_status": "supported",
+        "actual_status": "supported",
+        "status_match": true,
+        "keyword_match": true,
+        "citations_valid": true,
+        "structure_valid": true
+    },
+    {
+        "name": "LLM identification",
+        "passed": true,
+        "expected_status": "supported",
+        "actual_status": "supported",
+        "status_match": true,
+        "keyword_match": true,
+        "citations_valid": true,
+        "structure_valid": true
+    },
+    {
+        "name": "Unsupported CEO question",
+        "passed": true,
+        "expected_status": "insufficient",
+        "actual_status": "insufficient",
+        "status_match": true,
+        "keyword_match": true,
+        "citations_valid": true,
+        "structure_valid": true
+    },
+    {
+        "name": "Unsupported founding date",
+        "passed": true,
+        "expected_status": "insufficient",
+        "actual_status": "insufficient",
+        "status_match": true,
+        "keyword_match": true,
+        "citations_valid": true,
+        "structure_valid": true
+    }
+]
